@@ -1,0 +1,3 @@
+Langkah-langkahnya:
+1. install dulu gem bundler. "gem install bundler"
+2. lakukan bundle install.
