@@ -1,3 +1,21 @@
-Langkah-langkahnya:
-1. install dulu gem bundler. "gem install bundler"
-2. lakukan bundle install.
+Untuk menjalankan kode silahkan ketik "ruby run.rb".
+
+Untuk menjalankan test unit, silahkan ketik "ruby test_find_student.rb"
+
+Untuk gem yang dipakai, saya pakai gem default. Seharusnya gem-gem dibawah ini sudah terinstall ketika rvm membuatkan gemset.
+- bigdecimal (1.2.8)
+- bundler-unload (1.0.2)
+- did_you_mean (1.0.0)
+- executable-hooks (1.3.2)
+- gem-wrappers (1.2.7)
+- io-console (0.4.5)
+- json (1.8.3)
+- minitest (5.8.3)
+- net-telnet (0.1.1)
+- power_assert (0.2.6)
+- psych (2.0.17)
+- rake (10.4.2)
+- rdoc (4.2.1)
+- rubygems-bundler (1.4.4)
+- rvm (1.11.3.9)
+- test-unit (3.1.5)
