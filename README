@@ -1,3 +1,6 @@
+Untuk file great_circle.rb, saya tidak membuat test untuk file ini, karena file ini dibuat orang lain.
+Silahkan lihat di https://github.com/mwgg/GreatCircle, alasan kenapa saya tidak buat lagi, dikarenakan sudah ada orang yang membuat file untuk menghitung jarak.
+
 Untuk menjalankan kode silahkan ketik "ruby run.rb".
 
 Untuk menjalankan test unit, silahkan ketik "ruby test_find_student.rb"
