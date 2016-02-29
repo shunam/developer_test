@@ -24,7 +24,7 @@ class FindStudent
   def show_invited_students
     filtered_students = calculate_students_distance
     filtered_students.each do |filtered_student|
-      puts "JARAK: #{filtered_student[4]}, \tID: #{filtered_student[0]}, \tNAME: #{filtered_student[1]}"
+      puts "JARAK: #{filtered_student[4].round(2)}, \tID: #{filtered_student[0]}, \tNAME: #{filtered_student[1]}"
     end    
   end
 end
