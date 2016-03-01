@@ -1,8 +1,11 @@
-Untuk menjalankan kode silahkan ketik "ruby run.rb".
+Untuk menjalankan kode find student silahkan ketik
+- "ruby run.rb"
+- "ruby array_flatten.rb"
 
 Untuk menjalankan test unit, silahkan ketik 
 - "ruby test_find_student.rb"
 - "ruby test_great_circle.rb"
+- "ruby test_array_flatten.rb"
 
 Untuk gem yang dipakai, saya pakai gem default. Seharusnya gem-gem dibawah ini sudah terinstall ketika rvm membuatkan gemset.
 - bigdecimal (1.2.8)
